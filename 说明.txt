@@ -1,0 +1,3 @@
+wget --no-check-certificate https://raw.githubusercontent.com/smithmuch/l2tp/master/l2tp.sh
+chmod +x l2tp.sh
+./l2tp.sh
